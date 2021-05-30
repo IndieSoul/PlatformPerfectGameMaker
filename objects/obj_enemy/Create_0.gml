@@ -1,0 +1,1 @@
+state = choose(scr_move_right, scr_move_left);
